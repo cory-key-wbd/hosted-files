@@ -247,7 +247,7 @@
     margin-bottom: 5rem;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 800px) {
     .wbd-grid,
     .wbd-grid--2,
     .wbd-grid--3,
