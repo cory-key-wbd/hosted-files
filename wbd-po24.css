@@ -3,6 +3,7 @@
 .wbd-grid--3,
 .wbd-grid--4 {
 	display: grid;
+	gap: 4rem;
 }
 
 .wbd-grid {
