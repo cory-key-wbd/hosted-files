@@ -28,6 +28,8 @@
     .wbd-grid--4
      {
         display: flex;
+	     flex-wrap: wrap;
+	     
          flex-direction: column;
     }
 	
