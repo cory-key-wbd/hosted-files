@@ -1,29 +1,24 @@
 .wbd-grid {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: auto;
     gap: 2rem;
 }
 
 .wbd-grid--2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: auto;
     gap: 2rem;
 }
 
 .wbd-grid--3 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto;
     gap: 2rem;
-    grid-auto-flow: row dense;
 }
 
 .wbd-grid--4 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: auto;
     gap: 2rem;
 }
 
