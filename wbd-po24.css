@@ -1,7 +1,8 @@
 .wbd-grid,
 .wbd-grid--2,
 .wbd-grid--3,
-.wbd-grid--4 {
+.wbd-grid--4,
+.wbd-grid--5{
 	display: grid;
 	gap: 4rem;
 }
@@ -21,6 +22,11 @@
 .wbd-grid--4 {
     grid-template-columns: repeat(4, 1fr);
 }
+
+.wbd-grid--4 {
+    grid-template-columns: repeat(5, 1fr);
+}
+
 
 
 
