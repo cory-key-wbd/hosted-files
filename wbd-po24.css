@@ -23,7 +23,7 @@
     grid-template-columns: repeat(4, 1fr);
 }
 
-.wbd-grid--4 {
+.wbd-grid--5 {
     grid-template-columns: repeat(5, 1fr);
 }
 
