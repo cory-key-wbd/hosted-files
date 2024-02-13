@@ -33,7 +33,8 @@
 @media only screen and (max-width: 800px) {
     .wbd-grid--2,
     .wbd-grid--3,
-    .wbd-grid--4
+    .wbd-grid--4,
+	.wbd-grid--5
      {
         display: flex;
 	     flex-wrap: wrap;
